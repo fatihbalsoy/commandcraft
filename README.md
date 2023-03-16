@@ -3,7 +3,7 @@
 ![Discontinued](https://img.shields.io/badge/discontinued-red)
 ![Downloads](https://img.shields.io/badge/downloads-16,000+-white)
 ![License](https://img.shields.io/badge/license-AGPL-blue)
-![MCPE](https://img.shields.io/badge/mcpe-1.5.2-darkgreen)
+![MCPE](https://img.shields.io/badge/mcpe-0.15.6-darkgreen)
 ![Android](https://img.shields.io/badge/android-blocklauncher-lightgreen)
 ![iOS](https://img.shields.io/badge/iOS-jailbreak-red)
 
